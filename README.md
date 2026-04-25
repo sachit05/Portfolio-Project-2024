@@ -35,6 +35,5 @@ Cross-Platform Compatibility: Ensured consistent rendering and functionality acr
 
 Optimized Navigation: Prioritized user experience by creating a logical flow between different content modules.
 
-
 Deployment:
 https://sachit05.github.io/Portfolio-Project-2024/
