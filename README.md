@@ -5,6 +5,7 @@ Overview
 Engineered a high-performance, responsive single-page resume website designed for seamless cross-platform compatibility. The project focuses on a clean user interface and intuitive navigation to showcase professional work and services.
 
 Technical Stack
+
 -Frontend: HTML5, CSS3, JavaScript (ES6+)
 
 -Styling: Advanced CSS (Flexbox, Grid, Responsive Design)
